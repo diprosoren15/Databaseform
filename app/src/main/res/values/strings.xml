@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">KREDNOTE</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string-array name="country_names">
+        <item>India</item>
+        <item>England</item>
+        <item>Pakistan</item>
+        <item>Malaysia</item>
+        <item>Singapore</item>
+        <item>Thailand</item>
+        <item>Vietnam</item>
+    </string-array>
+
+    <string-array name="indian_states">
+
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chhattisgarh</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Odisha</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttar Pradesh</item>
+        <item>Uttarakhand</item>
+        <item>West Bengal</item>
+
+    </string-array>
+
+    <string-array name="west_bengal_cities">
+
+        <item>Kolkata</item>
+        <item>Howrah</item>
+        <item>Durgapur</item>
+        <item>Asansol</item>
+        <item>Siliguri</item>
+        <item>Darjeeling</item>
+        <item>Haldia</item>
+        <item>Kharagpur</item>
+        <item>Malda</item>
+        <item>Serampore</item>
+        <item>Bardhaman</item>
+        <item>Krishnanagar</item>
+        <item>Medinipur</item>
+        <item>Bankura</item>
+        <item>Ranaghat</item>
+
+    </string-array>
+</resources>

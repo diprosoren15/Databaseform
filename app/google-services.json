@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814217924625",
+    "project_id": "krednote-dealer-database",
+    "storage_bucket": "krednote-dealer-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814217924625:android:0b795ca6355406ac52a1b0",
+        "android_client_info": {
+          "package_name": "com.example.databaseform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb4DBBfx_p9DWwh0kZkuhe9dqs9hiKK0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
